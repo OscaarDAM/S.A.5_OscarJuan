@@ -2,6 +2,7 @@ Resumen de Ejercicios
 Este repositorio incluye una serie de ejercicios prácticos orientados a la gestión de sistemas ERP-CRM en Odoo, organizados en cuatro actividades principales.
 
 Activitat 01: Vista Kanban y Calendario para Tareas
+
 Objetivo: Modificar el ejemplo básico de la lista de tareas para agregar nuevas vistas y funcionalidades.
 Tareas Realizadas:
 Crear una vista Kanban para visualizar las tareas.
